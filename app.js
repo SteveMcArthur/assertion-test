@@ -23,5 +23,4 @@ joe.suite("Assertion tests", function (suite, test) {
 
     });
 
-
 });
