@@ -1,0 +1,17 @@
+{
+    "name": "assertion-test",
+    "version": "1.0.0",
+    "description": "Tests assertion-helpers",
+    "main": "app.js",
+    "author": "Steve McArthur",
+    "license": "ISC",
+    "dependencies": {
+        "assert-helpers": "^4.1.0",
+        "joe": "^1.6.0",
+        "joe-reporter-console": "^1.2.1"
+    },
+    "scripts": {
+        "start": "node app.js",
+        "test": "node app.js"
+    }
+}
